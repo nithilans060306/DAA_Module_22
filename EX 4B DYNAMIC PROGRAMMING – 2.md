@@ -48,8 +48,7 @@ print("The longest common substring is", result)
 ```
 
 ## Output:
-
-
+![image](https://github.com/user-attachments/assets/682523ca-bcec-4f55-92b3-19c7294b9847)
 
 ## Result:
 Thus the program was executed successfully for finding the longest common substring .
